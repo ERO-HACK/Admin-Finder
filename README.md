@@ -2,7 +2,6 @@
 
 ## What does this program do?
 > The Admin Finder program will only ask you for a site address to get started. It is easy to find the admin page of any site.
-<br>
 > `Remember that using this tool in the wrong way will be your responsibility and will not be subject to any kind of punishment.`
 <br>
 
