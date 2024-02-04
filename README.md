@@ -21,3 +21,11 @@
 - python3 admin-finder.py
 
   -----------------------------------------------------------
+<br>
+
+# Tips..!
+`To enter the URL, it must be https:// without having to have the image above.`
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero-hack&theme=merko&show_icons=true)
