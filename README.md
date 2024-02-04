@@ -9,3 +9,7 @@
 <a href="https://github.com/Tuhinshubhra/CMSeeK/releases/tag/v.1.1.3"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=style=flat-square" alt="version"></a>
 <a href="https://github.com/ERO-HACK/Admin-Finder"><img src="https://img.shields.io/badge/python-3.11.3-orange.svg?style=style=flat-square" alt="Python Version"></a> 
 </p>
+<br>
+![Capture](https://github.com/ERO-HACK/Admin-Finder/assets/72475141/c7662a2e-a59a-42ec-8fa6-ae43f05bab05)
+
+
