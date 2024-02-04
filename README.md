@@ -13,4 +13,10 @@
 
 ![Capture](https://github.com/ERO-HACK/Admin-Finder/assets/72475141/c7662a2e-a59a-42ec-8fa6-ae43f05bab05)
 
+<br>
 
+# Install For Kali Linux
+- git clone https://github.com/ERO-HACK/Admin-Finder.git
+- cd Admin Finder
+- python3 admin-finder.py
+  -----------------------------------------------------------
